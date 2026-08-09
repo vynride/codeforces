@@ -1,4 +1,6 @@
-.cph/
-codeforces.geany
-tests/
-leftover/
+*
+!*.*
+!*/
+leftover
+tests
+.cph
